@@ -1,7 +1,7 @@
 # AWS Aurora MySQL IOPs Monitoring
 
 ## Baseline I/O Rate
-![screenshot](baseline_io_rate.jpg)
+![screenshot](screenshots/baseline_io_rate.jpg)
 
 ```
 {
